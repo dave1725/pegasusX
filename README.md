@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PegasusX : CyberSec Tool
 <<<<<<< HEAD
 > in development...
@@ -51,3 +52,8 @@ Get started with the tool in just 3 STEPS!
 ## License
 This project is licensed under MIT license - Kindly refer the LICENSE file for details.
 
+=======
+# pegasusX
+A Pen Testing framework built with python3
+This project is built with more than 10+ modules thath's associated with encryption,decryption,forensics and web app pentesting.
+>>>>>>> 4bae6c1 (Create README.md)
