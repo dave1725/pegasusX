@@ -1,0 +1,6 @@
+http://www.pothysgreencard.com
+http://mail.pothysgreencard.com
+http://ftp.pothysgreencard.com
+http://dev.pothysgreencard.com
+http://server.pothysgreencard.com
+http://host.pothysgreencard.com
