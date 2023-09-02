@@ -55,5 +55,9 @@ This project is licensed under MIT license - Kindly refer the LICENSE file for d
 =======
 # pegasusX
 A Pen Testing framework built with python3
+<<<<<<< HEAD
 This project is built with more than 10+ modules thath's associated with encryption,decryption,forensics and web app pentesting.
 >>>>>>> 4bae6c1 (Create README.md)
+=======
+This project is built with more than 10+ modules that's associated with encryption,decryption,forensics and web app pentesting.
+>>>>>>> 4fe4fef (Update README.md)
