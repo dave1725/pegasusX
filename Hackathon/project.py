@@ -568,7 +568,7 @@ else:
                   [1]Cryptographic Tools
                   [2]Forensic Analysis Tools
                   [3]Web Pentesting Tools
-                  [4]OSINT Tools
+               
             """)
             ch=input(">>")
             if(ch=='1'):
