@@ -1,12 +1,13 @@
-# PegasusX : CyberSec Tool
+# PegasusX : Your Hacking Assistant
 
 > in development...
 
 ![Screenshot 2024-07-29 155422](https://github.com/user-attachments/assets/3de620e6-e3be-4f5e-a3e4-a8f69220cb84)
 
 ## Introduction
-PegasusX is a penetration testing CLI tool written in python3. It consists of more than 10+ modules for encryption,decryption,forensics and web app pentesting. The project is still under development.
+PegasusX is a penetration testing CLI tool written in python3. It consists of more than 15+ modules for encryption,decryption,forensics and web app pentesting. The project is still under development.
 Python3 with its rich library and community made this idea possible!
+Feel free to contact me for any doubts or issues regarding the project. 
 
 ## Features
 - Encryption
@@ -19,9 +20,8 @@ Python3 with its rich library and community made this idea possible!
 ## Getting Started
 Get started with the tool in just 3 STEPS!
 ### Default Credentials
-
-        password: root
-        key: toor
+> password: root
+> key: toor
 
 - Clone the repo
 
