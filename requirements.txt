@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 imaplib2
 ipinfo
 psutil
@@ -22,3 +23,30 @@ python-utils
 olefile
 common_tools
 PyPDF2
+=======
+imaplib2
+ipinfo
+psutil
+dnspython
+whois
+python-whois
+datetime
+wave
+pydub
+ffmpeg
+keyboard
+librosa
+pyautogui
+getpass4
+selenium
+bs4
+pyuac
+win32security
+pypiwin32
+utils
+python-utils
+olefile
+common_tools
+PyPDF2
+lxml
+>>>>>>> c45df12 (release v1.0.0)
